@@ -29,7 +29,6 @@ def readHeroDataBase(fileName):
 	
 	return heroData
 
-#cleaning up a bit... decide how it should look. and then start typing code.
 def generateHeroReport(heroDB):
 	categories = ['location', 'income', 'powers', 'contact', 'situations']
 
