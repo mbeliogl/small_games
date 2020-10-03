@@ -1,0 +1,6 @@
+BATMAN;Gotham;1000000000;Beating,Driving,Kicking;Phone,E-Mail,Bat Signal;Murder,Fire,Drugs,Injustice
+HULK;Dayton;1000000;Transformation,Superhuman Strength,Underwater Breathing;Phone,Pager,E-Mail;Alien Invasion,Murder,Robbery,Heavy Objects
+SPIDER MAN; NYC; 10000;Acrobatic Leaps,Web-Slinging,Superhuman Strength,Riding a Scooter;Phone,E-Mail,Pager,Facebook;Alien Invasion,Murder,Fire,Photoshoot
+SUPERMAN;Krypton;50000;Superhuman Strength,Invulnerability,Flight,Super Vision;Phone,E-Mail,Pager;Crashing Plane,Shooting,Alien Invasion,Nuclear War
+DEADPOOL;N/A;70000;Regenerative Healing Factor,Peak human Strength,Foreign Chemical Resistance,Telepathic Immunity;Phone,E-Mail,Pager;Chemical Spill,Shooting,Mind Controlling Aliens,Crime
+BLACK WIDOW;Russia;N/A;Peak Human Strength,Peak Human Agility,Expert Marksman,Talented Hacker;Phone,E-Mail,Pager;Robbery,Shooting,Spy Troubles,Hacker Attack
